@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bgm:home|Door43 (bgm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bgm|d43-bgm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bgm/archive/master.zip|d43-bgm.zip]]
+
+**Recent Changes**
+{{changes>ns = bgm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bgm|Ethnologue data]]
+
